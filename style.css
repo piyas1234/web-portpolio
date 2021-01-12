@@ -20,7 +20,7 @@ h1{
 
 
 .half-width{
-    width:40%;
+    width:41%;
     float: left;
     margin-left: 5%;
     padding-left: 2%;
@@ -90,7 +90,10 @@ h1{
 .dream-half{
     background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
+    background-position: right;
     display:inline-block;
+    
+    
 }
 
 
