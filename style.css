@@ -1,0 +1,106 @@
+ 
+
+
+body{
+    margin:0;
+    padding:0;
+    font-family: 'Poppins', sans-serif ;
+}
+section{
+    height:500px;
+}
+h1{
+    font-size:40px;
+    font:  sans-serif;
+}
+
+.name-highlight{
+    color:orange;
+}
+
+
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    display: block;
+}
+
+.top-banner{
+    background-image: url("images/top-banner.png");
+ 
+    background-repeat: no-repeat;
+    display:inline-block;
+}
+.dream-area{
+    display:inline-block;
+    margin-top: 300px;
+}
+
+.hire_Link{
+    margin-top: 10px;
+    padding:10px 14px;
+    background-image: linear-gradient(lightSalmon , tomato , #bd5454);
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font: 1em sans-serif;
+
+}
+ 
+
+.card-style{
+    background-color:rgb(255, 255, 255);
+    box-shadow: 5px 5px 5px 5px rgb(114, 111, 111);
+     
+
+}
+
+
+.card-style > h2{
+    font-size:33px;
+    
+}
+
+.card-style > h3{
+     color: rgb(255, 167, 85);
+    
+}
+
+
+.cardstyle-x{
+    border-width: 3px;
+    border-style: solid;
+    border-image: 
+      linear-gradient(
+        to bottom, 
+        rgb(255, 187, 0), 
+        rgba(196, 112, 17, 0)
+      ) 1 100%;
+}.cardstyle-y{
+    border-left: 5px solid rgb(25, 221, 255);
+}
+
+ 
+
+
+.dream-half{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    display:inline-block;
+}
+
+
+
+.copyrignt-section{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    font-weight:bold;
+    color:seashell;
+    text-shadow: 1px 1px 1px rgb(66, 59, 59);
+     
+}
